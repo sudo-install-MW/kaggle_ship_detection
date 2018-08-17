@@ -1,0 +1,11 @@
+1. Dummy model
+    What the model does?
+    the model can detect object in a image passed with a flag
+
+
+2. Required model
+    Detect ships from kaggle dataset
+
+
+
+
