@@ -104,6 +104,7 @@ def _yolo_block(inputs, filters):
 def _get_size(shape, data_format):
     if len(shape) == 4:
         shape = shape[1:]
+    print("Shape of dims is", shape[1:3] if data_format == 'NCHW' else shape[0:2])
     return shape[1:3] if data_format == 'NCHW' else shape[0:2]
 
 
