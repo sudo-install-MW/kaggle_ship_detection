@@ -2,7 +2,7 @@
 This github repo is used for inferering or tweaking various object detection models and their performance to best suit the kaggle ship detection problem
 
 ## Models used at present
-* YOLOV3
+* YOLOV3 [implementation credits](https://github.com/mystic123/tensorflow-yolo-v3) 
 
 ## Problem statement
 Airbus is excited to challenge Kagglers to build a model that detects all ships in satellite images as quickly as possible
